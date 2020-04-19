@@ -7,7 +7,7 @@
  
 #include <iostream>
 #include <string>
-#include "stdafx.h
+#include "stdafx.h"
 using namespace std;
  
  
